@@ -20,5 +20,5 @@
   <!-- Added icons -->
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/godotengine.svg" alt="Godot" title="Godot" width="36" height="36" /></a>
   <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/krita.svg" alt="Krita" title="Krita" width="36" height="36" /></a>
-  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Aseprite.svg" alt="Aseprite" title="Aseprite" width="36" height="36" /></a>
+  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/aseprite.svg" alt="Aseprite" title="Aseprite" width="36" height="36" /></a>
 </p>
