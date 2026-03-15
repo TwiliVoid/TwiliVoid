@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jari Gnodde</h1>
+<p align="center">
+  <img src="ForestBanne.gif" alt="Pixel GIF" height ="500" width="1000"/>
+</p>
 
 # 💫 About Me:
 temp
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TwiliVoid&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
