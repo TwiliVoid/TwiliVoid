@@ -2,6 +2,7 @@
 <h3 align="left">from the Netherlands</h3>
 
 
+
 <h1>Skills:</h1>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
@@ -21,4 +22,9 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/godotengine.svg" alt="Godot" title="Godot" width="36" height="36" /></a>
   <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/krita.svg" alt="Krita" title="Krita" width="36" height="36" /></a>
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/aseprite.svg" alt="Aseprite" title="Aseprite" width="36" height="36" /></a>
+</p>
+
+<h1 align="left">Hobby's</h1>
+<p align="center">
+  <img src="TPix.gif" alt="Pixel GIF" width="1000" />
 </p>
