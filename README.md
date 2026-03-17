@@ -51,11 +51,9 @@
 <td width="50%" valign="top">
   
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=TwiliVoid&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TwiliVoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=1abc9c&text_color=a0f0d5&icon_color=16a085"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=TwiliVoid&theme=vue-dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TwiliVoid&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwiliVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=1abc9c&text_color=a0f0d5"/>
 
 </td>
 </tr>
