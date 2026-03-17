@@ -5,12 +5,11 @@
 ---
 
 # 💫 About Me
-Hi! I'm Jari Gnodde 👋
-I'm 17 years old and currently studying Software Development at Firda College.
-I enjoy being creative and expressing ideas through art, music, and technology.
+- Hi! I'm Jari Gnodde 👋<br>
+  I'm 17 years old and currently studying Software Development at Firda College. I enjoy being creative and expressing ideas through<br> art, music, and technology.
 
-Right now I'm focused on learning coding, web development, digital art, and taking my first steps into game development. I'm constantly improving while balancing school and personal projects.
-
+  In my free time i play games (alot), play piano and make art in real life, so why not bring all of that into the digital world?<br>
+  Right now I'm focused on learning coding, web development, digital art, and taking my first steps into game development.<br> I'm constantly improving while balancing school and personal projects.
 
 ---
 
@@ -61,10 +60,11 @@ Right now I'm focused on learning coding, web development, digital art, and taki
 ---
 
 ## 🚀 Currently Learning / Projects
-I'm currently learning to make my own portfolio using React + Vite + TailWindCss
-when this is done it will be avalible here:
-- 🌐 **Portfolio:** [My Portfolio]("")
+- I'm currently learning to make my own portfolio using React + Vite + TailWindCss when this is done it will be avalible here:<br>
+🌐 **Portfolio:** [My Portfolio](https://your-link-here.com)
 
+- I'm also learning C# not only for just coding but also for game engines, so i chose to use godot for my beginner expierence.
+  and ofcouce im learning allot in school, almost everything you see in the Skills table.
 ---
 
 <p align="center">
@@ -74,22 +74,15 @@ when this is done it will be avalible here:
 ---
 
 ## 🎮 Game Development Journey
+- I'm currently starting my **indie dev journey** 🚀  
+  I chose godot because it is open source and a great way to learn C# making art and even music
 
-I'm currently starting my **indie dev journey** 🚀  
-
-- 🎮 Learning game development with Godot  
-- 🎨 Creating my own assets & animations  
-- 🧩 Experimenting with mechanics  
-- 📈 Growing as a solo developer  
 
 ---
 
 ## 📚 Other Things I'm Learning
-
-- 💻 Advanced programming concepts  
-- 🎨 Digital art & design  
-- ⚙️ Game systems & architecture  
-- 🌐 Web development  
+- Im still on my way to master the Piano everyday.
+- 
 
 ---
 
