@@ -51,9 +51,9 @@
 <td width="50%" valign="top">
   
 ### 📊 GitHub Stats
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TwiliVoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=63a87a&text_color=63a87a&icon_color=63a87a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TwiliVoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=e6fff0&text_color=a7d4b9&icon_color=e6fff0"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwiliVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=63a87a&text_color=63a87a"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwiliVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=e6fff0&text_color=a7d4b9"/>
 
 </td>
 </tr>
