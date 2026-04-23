@@ -6,7 +6,7 @@
 
 # 💫 About Me
 - Hi! I'm **Jari Gnodde** 👋<br>
-  I'm 17 years old and currently studying Software Development at Firda College.<br>
+  I'm 18 years old and currently studying Software Development at Firda College.<br>
   I enjoy being creative and expressing ideas through art, music, and technology.
 
   In my free time I play games (a lot), practice piano, and create art in real life — so bringing all of that into the digital world felt natural.<br>
